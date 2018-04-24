@@ -1,0 +1,19 @@
+{
+    "name": "mansh",
+    "description": "Demo-package to show time",
+    "authors": [
+        {
+            "name": "Sanjay Yadav",
+            "email": "yadav.sanjay20yadav@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": 
+            {
+             "psr-4":
+                {
+                   "Yadav\\":"src/"
+                }
+            }
+}
